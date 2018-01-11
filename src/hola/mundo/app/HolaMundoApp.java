@@ -7,7 +7,7 @@ public class HolaMundoApp {
 
         System.out.println("Hola");
 
-        System.out.println(2+2);// Esto era indispensable para el buen funcionamiento del programa
+        System.out.println(2*2);// Esto era indispensable para el buen funcionamiento del programa
 
         // Versión2.0
     }
